@@ -1,0 +1,7 @@
+{
+    "name": "juastonioadrian_m8_proyectoFinalGit",
+    "description": "Proyecto realizado por Adrián y Juastonio",
+    "require": {
+        "php": ">=7.*"
+    }
+}
