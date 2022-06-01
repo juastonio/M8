@@ -15,3 +15,17 @@ Para utilizar esta clase una vez la tengamos, deberemos crear una instancia y ll
 
 - include "matrius.php";
 - $m = new Matrius();
+
+## Instalación packagist
+
+Url del packagist:
+
+  https://packagist.org/packages/m8adrian-juastonio/proyecto-final
+  
+Para instalar el paquete debemos introducir en la línea de comandos el siguiente código:
+
+  composer require m8adrian-juastonio/proyecto-final
+
+Para instalar debemos tener instalado el composer para ello descargando el archivo composer.phar:
+
+  php composer.phar install
