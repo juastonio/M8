@@ -2,6 +2,6 @@
     "name": "m8adrian-juastonio/proyecto-final",
     "description": "Proyecto realizado por Adrián y Juastonio",
     "require": {
-        "php": ">=7.*"
+        "php": "7.0"
     }
 }
